@@ -1,0 +1,30 @@
+# **Сборочные файлы**
+bin/
+obj/
+*.exe
+*.dll
+*.pdb
+*.log
+
+# **Конфигурационные файлы Visual Studio**
+.vs/
+*.user
+*.suo
+*.cache
+*.csproj.user
+
+# **Файлы NuGet**
+packages/
+*.nupkg
+project.lock.json
+
+# **Автосгенерированные файлы**
+Generated/
+*.designer.cs
+
+# **Системные файлы Windows**
+Thumbs.db
+Desktop.ini
+
+# **Файлы временных тестов**
+TestResults/
